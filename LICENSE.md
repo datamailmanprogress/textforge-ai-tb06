@@ -1,4 +1,4 @@
-# 
+# New TextForge toolkit. Download and install with one-click-install and detailed-docs — fast, secure, and easy to use.
 
 
 
